@@ -9,7 +9,6 @@ public class ClaseBelen {
         System.out.println();
 
         int altura = 5;
-
       
         // Imprime las ramas del árbol
         for (int i = 1; i <= altura; i++) {
